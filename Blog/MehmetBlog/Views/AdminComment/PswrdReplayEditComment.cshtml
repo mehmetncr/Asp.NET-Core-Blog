@@ -1,0 +1,45 @@
+﻿@model ReplyCommentViewModel
+@{
+    ViewData["Title"] = "PswrdReplayEditComment";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-comment-text"></i>
+        </span> Yorum
+    </h3>
+</div>
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <form class="forms-sample" asp-action="PswrdReplayEditComment" asp-controller="AdminComment" method="post">
+                <div class="form-group">
+                    <label asp-for="CommentUserName">Kullanıcı Adı</label>
+                    <input asp-for="CommentUserName" type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
+                    <input asp-for="BlogReplayCommentID" type="hidden" value="@Model.BlogReplayCommentID">
+                    <input asp-for="CommentID" type="hidden" value="@Model.CommentID">
+                    <input asp-for="ParentCommentID" type="hidden" value="@Model.ParentCommentID">
+                    <input asp-for="CommentDate" type="hidden" value="@Model.CommentDate">
+                    <input asp-for="CommentImg" type="hidden" value="@Model.CommentImg">
+                </div>
+                <div class="form-group">
+                    <label asp-for="CommentMail">Email Adresi</label>
+                    <input asp-for="CommentMail" type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <label asp-for="CommentContent">Yorum</label>
+                    <textarea asp-for="CommentContent" type="text" class="form-control" rows="15" id="exampleInputPassword1" placeholder="Comment"></textarea>
+                </div>
+
+
+                <button type="submit" class="btn btn-gradient-primary mr-2">Gönder</button>
+                <button asp-action="Pswrd" class="btn btn-light">Vazgeç</button>
+            </form>
+        </div>
+    </div>
+</div>
+

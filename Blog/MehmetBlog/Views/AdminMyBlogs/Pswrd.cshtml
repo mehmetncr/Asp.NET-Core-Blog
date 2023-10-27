@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BlogViewModel>
+@{
+    ViewData["Title"] = "Pswrd";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-blogger"></i>
+        </span> Bloglarım
+    </h3>
+</div>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <table class="table table">
+                <thead>
+                    <tr>
+                        <th> Blog Kategorisi  </th>
+                        <th> Blog Adı </th>
+                        <th> Yayın Tarihi </th>
+                        <th> Blog Durumu </th>
+                        <th> Yorum Sayısı </th>
+                        <th> İşlemler </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+
+                        <tr>
+                            <td>
+                                @item.Category.CategoryName
+                            </td>
+                            <td>
+                                @item.BlogTitle
+
+                            </td>
+                            <td>
+                                @item.BlogCreateDate.ToString("MMM dd, yyyy")
+                            </td>
+                            <td>
+                                <i class="@(item.BlogStatus == true?"mdi mdi-check":"mdi mdi-close")"></i>
+                                <span class="btn-sm @(item.BlogStatus ? "bg-success text-white" : "bg-danger text-white")">@(item.BlogStatus == true ? "Online" : "Offline")</span>
+                            </td>
+                            <td> May 15, 2015 </td>
+                            <td>
+                                <a class="btn-sm btn-info"  asp-action="PswrdEditBlog" asp-route-id="@item.BlogID">Düzenle</a>
+                                <a class="btn-sm btn-warning" asp-action="PswrdChangeStatus" asp-route-id="@item.BlogID">
+                                    @(item.BlogStatus==true?"Kaldır":"Yayınla")
+                                    </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

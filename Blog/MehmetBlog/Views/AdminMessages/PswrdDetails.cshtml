@@ -1,0 +1,36 @@
+﻿@model ContactViewModel
+@{
+    ViewData["Title"] = "PswrdDetails";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-email"></i>
+        </span> <a  asp-action="Pswrd" asp-controller="AdminMessages" > Mesajlar </a>
+    </h3>
+</div>
+<div class="row">
+    <div class="col-md-8 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                    <div class="form-group">
+                        <label asp-for="ContactUserName">Kullanıcı Adı</label>
+                        <input asp-for="ContactUserName" type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
+            
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ContactMail">Email Adresi</label>
+                        <input asp-for="ContactMail" type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ContactSubject">Mesaj</label>
+                        <textarea asp-for="ContactSubject" type="text" class="form-control" rows="15" id="exampleInputPassword1" placeholder="Comment"></textarea>
+                    </div>
+     
+            </div>
+        </div>
+    </div>
+</div>    

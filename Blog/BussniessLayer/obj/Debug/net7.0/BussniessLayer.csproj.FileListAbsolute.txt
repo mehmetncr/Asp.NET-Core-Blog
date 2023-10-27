@@ -1,0 +1,17 @@
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\BussniessLayer.deps.json
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\BussniessLayer.dll
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\BussniessLayer.pdb
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.csproj.AssemblyReference.cache
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.AssemblyInfoInputs.cache
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.AssemblyInfo.cs
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.csproj.CopyComplete
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.dll
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\refint\BussniessLayer.dll
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\BussniessLayer.pdb
+C:\Users\MEHMET\Desktop\MehmetBlog\BussniessLayer\obj\Debug\net7.0\ref\BussniessLayer.dll

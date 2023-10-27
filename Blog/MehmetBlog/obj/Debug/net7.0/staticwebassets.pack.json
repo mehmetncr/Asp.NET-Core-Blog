@@ -1,0 +1,2117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MehmetBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MehmetBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\.gitignore",
+      "PackagePath": "staticwebassets\\AdminPanel\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\AdminPanel\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\LICENSE",
+      "PackagePath": "staticwebassets\\AdminPanel"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\PSD\\.DS_Store",
+      "PackagePath": "staticwebassets\\AdminPanel\\PSD\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\AdminPanel\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\README.md",
+      "PackagePath": "staticwebassets\\AdminPanel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\AdminPanel\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\gulpfile.js",
+      "PackagePath": "staticwebassets\\AdminPanel\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\index.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\package.json",
+      "PackagePath": "staticwebassets\\AdminPanel\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\AdminPanel\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\AdminPanel\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\AdminPanel\\screenshot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\error-404\\css\\style.css",
+      "PackagePath": "staticwebassets\\error-404\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\error-404\\index.html",
+      "PackagePath": "staticwebassets\\error-404\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\IMG_20210623_184654.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_20210623_184654.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\IMG_20210624_104049.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_20210624_104049.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\IMG_20210704_204702.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG_20210704_204702.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\MVC.png",
+      "PackagePath": "staticwebassets\\images\\MVC.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\MVCK.png",
+      "PackagePath": "staticwebassets\\images\\MVCK.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\Profil\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\Profil\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\banner-item-01.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\banner-item-02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-item-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\blog-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\images\\blog-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\about.html",
+      "PackagePath": "staticwebassets\\templatemo\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\css\\templatemo-stand-blog.css",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\css\\templatemo-stand-blog.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\banner-item-01.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\banner-item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\banner-item-02.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\banner-item-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\banner-item-03.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\banner-item-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\banner-item-04.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\banner-item-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\banner-item-05.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\banner-item-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\banner-item-06.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\banner-item-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\blog-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\blog-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\comment-author-01.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\comment-author-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\comment-author-02.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\comment-author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\comment-author-03.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\comment-author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\templatemo\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\blog.html",
+      "PackagePath": "staticwebassets\\templatemo\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\contact.html",
+      "PackagePath": "staticwebassets\\templatemo\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\index.html",
+      "PackagePath": "staticwebassets\\templatemo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\post-details.html",
+      "PackagePath": "staticwebassets\\templatemo\\post-details.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\prepros-6.config",
+      "PackagePath": "staticwebassets\\templatemo\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\templatemo\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\templatemo\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\templatemo\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\templatemo\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\.eslintrc",
+      "PackagePath": "staticwebassets\\trix-main\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\.gitignore",
+      "PackagePath": "staticwebassets\\trix-main\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\.node-version",
+      "PackagePath": "staticwebassets\\trix-main\\.node-version"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\.npmignore",
+      "PackagePath": "staticwebassets\\trix-main\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets\\trix-main\\CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\LICENSE",
+      "PackagePath": "staticwebassets\\trix-main"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\README.md",
+      "PackagePath": "staticwebassets\\trix-main\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\index.html",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\test.html",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\README.md",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\attach.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\attach.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\bold.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\bullets.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\bullets.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\code.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\code.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\heading_1.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\heading_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\italic.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\link.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\link.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\nesting_level_decrease.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\nesting_level_decrease.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\nesting_level_increase.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\nesting_level_increase.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\numbers.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\numbers.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\quote.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\redo.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\redo.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\remove.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\remove.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\strike.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\strike.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\trash.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\trash.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\images\\undo.svg",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\images\\undo.svg"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\attachments.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\attachments.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\content.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\content.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\editor.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\editor.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\functions.js",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\icons.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\media-queries.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\media-queries.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\selection.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\selection.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\assets\\trix\\stylesheets\\toolbar.scss",
+      "PackagePath": "staticwebassets\\trix-main\\assets\\trix\\stylesheets\\toolbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\babel.config.json",
+      "PackagePath": "staticwebassets\\trix-main\\babel.config.json"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\bin\\ci",
+      "PackagePath": "staticwebassets\\trix-main\\bin"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\bin\\release",
+      "PackagePath": "staticwebassets\\trix-main\\bin"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\bin\\setup",
+      "PackagePath": "staticwebassets\\trix-main\\bin"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\karma.conf.js",
+      "PackagePath": "staticwebassets\\trix-main\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\package.json",
+      "PackagePath": "staticwebassets\\trix-main\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\rollup.config.js",
+      "PackagePath": "staticwebassets\\trix-main\\rollup.config.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\control_element.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\control_element.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\debugger.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\debugger.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\element.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\element.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\global.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\inspector.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\inspector.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates\\debug.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates\\debug.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates\\document.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates\\document.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates\\performance.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates\\performance.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates\\render.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates\\render.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates\\selection.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates\\selection.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\templates\\undo.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\templates\\undo.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\views\\debug_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\views\\debug_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\views\\document_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\views\\document_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\views\\performance_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\views\\performance_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\views\\render_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\views\\render_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\views\\selection_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\views\\selection_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\views\\undo_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\views\\undo_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\deserializer.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\deserializer.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\player.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\player.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\player_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\player_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\player_element.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\player_element.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\player_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\player_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\recorder.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\recorder.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\recording.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\recording.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\inspector\\watchdog\\serializer.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\inspector\\watchdog\\serializer.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\accessibility_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\accessibility_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\attachment_caption_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\attachment_caption_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\attachment_gallery_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\attachment_gallery_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\attachment_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\attachment_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\basic_input_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\basic_input_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\block_formatting_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\block_formatting_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\caching_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\caching_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\canceled_input_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\canceled_input_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\composition_input_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\composition_input_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\cursor_movement_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\cursor_movement_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\custom_element_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\custom_element_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\html_loading_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\html_loading_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\html_reparsing_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\html_reparsing_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\html_replacement_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\html_replacement_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\installation_process_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\installation_process_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\level_2_input_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\level_2_input_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\list_formatting_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\list_formatting_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\mutation_input_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\mutation_input_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\pasting_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\pasting_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\text_formatting_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\text_formatting_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\system\\undo_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\system\\undo_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helper.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helper.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\assertions.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\assertions.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\editor_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\editor_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\event_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\event_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_default_aria_label.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_default_aria_label.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_empty.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_empty.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_html.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_html.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_in_table.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_in_table.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_block_styles.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_block_styles.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_bold_styles.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_bold_styles.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_image.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_image.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_labels.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_labels.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_styled_content.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_styled_content.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_toolbar_and_input.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editor_with_toolbar_and_input.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\editors_with_forms.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\editors_with_forms.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\fixtures.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\fixtures.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\logo.png",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\fixtures\\test_image_url.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\fixtures\\test_image_url.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\functions.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\input_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\input_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\selection_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\selection_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\test_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\test_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\test_stubs.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\test_stubs.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\timing_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\timing_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\test_helpers\\toolbar_helpers.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\test_helpers\\toolbar_helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\attachment_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\attachment_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\bidi_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\bidi_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\block_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\block_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\composition_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\composition_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\document_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\document_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\document_view_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\document_view_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\html_parser_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\html_parser_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\location_mapper_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\location_mapper_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\mutation_observer_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\mutation_observer_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\serialization_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\serialization_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\string_change_summary_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\string_change_summary_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\test\\unit\\text_test.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\test\\unit\\text_test.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\attachments.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\attachments.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\block_attributes.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\block_attributes.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\browser.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\browser.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\css.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\file_size_formatting.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\file_size_formatting.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\input.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\input.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\key_names.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\key_names.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\lang.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\lang.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\parser.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\parser.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\text_attributes.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\text_attributes.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\toolbar.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\toolbar.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\config\\undo.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\config\\undo.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\constants.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\constants.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\attachment_editor_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\attachment_editor_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\composition_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\composition_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\editor_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\editor_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\input_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\input_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\level_0_input_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\level_0_input_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\level_2_input_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\level_2_input_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\controllers\\toolbar_controller.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\controllers\\toolbar_controller.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\basic_object.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\basic_object.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\collections\\element_store.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\collections\\element_store.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\collections\\hash.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\collections\\hash.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\collections\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\collections\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\collections\\object_group.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\collections\\object_group.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\collections\\object_map.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\collections\\object_map.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\arrays.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\arrays.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\bidi.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\bidi.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\config.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\custom_elements.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\custom_elements.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\dom.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\dom.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\events.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\events.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\extend.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\extend.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\functions.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\global.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\objects.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\objects.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\ranges.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\ranges.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\selection.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\selection.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\helpers\\strings.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\helpers\\strings.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\object.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\object.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\serialization.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\serialization.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\utilities.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\utilities.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\utilities\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\utilities\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\utilities\\operation.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\utilities\\operation.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\core\\utilities\\utf16_string.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\core\\utilities\\utf16_string.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\elements\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\elements\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\elements\\trix_editor_element.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\elements\\trix_editor_element.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\elements\\trix_toolbar_element.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\elements\\trix_toolbar_element.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\filters\\attachment_gallery_filter.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\filters\\attachment_gallery_filter.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\filters\\filter.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\filters\\filter.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\filters\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\filters\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\attachment.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\attachment.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\attachment_manager.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\attachment_manager.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\attachment_piece.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\attachment_piece.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\block.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\block.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\composition.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\composition.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\document.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\document.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\editor.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\editor.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\flaky_android_keyboard_detector.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\flaky_android_keyboard_detector.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\html_parser.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\html_parser.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\html_sanitizer.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\html_sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\line_break_insertion.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\line_break_insertion.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\location_mapper.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\location_mapper.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\managed_attachment.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\managed_attachment.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\piece.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\piece.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\point_mapper.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\point_mapper.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\selection_manager.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\selection_manager.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\splittable_list.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\splittable_list.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\string_piece.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\string_piece.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\text.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\text.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\models\\undo_manager.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\models\\undo_manager.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\observers\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\observers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\observers\\mutation_observer.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\observers\\mutation_observer.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\observers\\selection_change_observer.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\observers\\selection_change_observer.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\operations\\file_verification_operation.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\operations\\file_verification_operation.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\operations\\image_preload_operation.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\operations\\image_preload_operation.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\operations\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\operations\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\trix.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\trix.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\attachment_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\attachment_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\block_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\block_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\document_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\document_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\index.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\object_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\object_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\piece_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\piece_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\previewable_attachment_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\previewable_attachment_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\src\\trix\\views\\text_view.js",
+      "PackagePath": "staticwebassets\\trix-main\\src\\trix\\views\\text_view.js"
+    },
+    {
+      "Id": "C:\\Users\\MEHMET\\Desktop\\MehmetBlog\\MehmetBlog\\wwwroot\\trix-main\\yarn.lock",
+      "PackagePath": "staticwebassets\\trix-main\\yarn.lock"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MehmetBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MehmetBlog.props",
+      "PackagePath": "build\\MehmetBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MehmetBlog.props",
+      "PackagePath": "buildMultiTargeting\\MehmetBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MehmetBlog.props",
+      "PackagePath": "buildTransitive\\MehmetBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ReplyCommentViewModel>
+@if (Model != null)
+{
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th> Kullanıcı Adı </th>
+                            <th> Mail Adresi </th>
+                            <th> Durumu </th>
+                            <th> Düzenle </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CommentUserName</td>
+                                <td>@item.CommentMail</td>
+                                <td>
+                                    <i class="@(item.CommentStatus == true?"mdi mdi-check":"mdi mdi-close")"></i>
+                                    <span class="btn-sm @(item.CommentStatus ? "bg-success text-white" : "bg-danger text-white")">
+                                        @(
+                                            item.CommentStatus == true ? "Online" : "Offline"
+                                            )
+                                    </span>
+                                </td>
+                                <td>
+                                    <div class="row 12">
+                                        <div class="col-6">
+                                            <a class="btn-sm btn-info" asp-action="PswrdReplayEditComment" asp-route-id="@item.CommentID">Detayalar</a>
+                                        </div>
+                                        <div class="col-5 ">
+                                            <a class="btn-sm btn-warning ml-1  " asp-action="PswrdReplayChangeStatusComment" asp-route-id="@item.CommentID">
+                                                @(
+                                                    item.CommentStatus == true ? " Kaldır  " : "Yayınla"
+                                                    )
+                                            </a>
+                                        </div>
+
+
+
+
+                                    </div>
+                                </td>
+
+                            </tr>
+
+                        }
+
+              
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+}
+

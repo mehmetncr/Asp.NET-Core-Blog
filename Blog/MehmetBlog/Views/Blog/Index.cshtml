@@ -1,0 +1,105 @@
+﻿@model List<BlogViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Layout/_UserLayout.cshtml";
+}
+
+@{
+    int pageSize = 3; // Her sayfada gösterilecek blog sayısı
+    int currentPage = 1; // Varsayılan olarak ilk sayfayı göster
+
+    // Eğer sayfa numarası URL parametresi olarak gelmişse, onu kullan
+    if (Context.Request.Query.ContainsKey("page") && int.TryParse(Context.Request.Query["page"], out int requestedPage))
+    {
+        currentPage = requestedPage;
+    }
+
+    // Toplam sayfa sayısını hesapla
+    int totalBlogs = Model.Count();
+    int totalPages = (int)Math.Ceiling((double)totalBlogs / pageSize);
+
+    // Seçilen blogları çek
+    var selectedBlogs = Model.Skip((currentPage - 1) * pageSize).Take(pageSize);
+}
+
+
+
+<section class="blog-posts grid-system">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="sidebar">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <partial name="_SearchPartialView" />
+                        </div>
+                        <div class="col-lg-12">
+                            <!--Recent Posts-->
+                            <vc:recent-posts></vc:recent-posts>
+                            <!--Recent Posts-->
+                        </div>
+                        <div class="col-lg-12">
+                            <!--Categories-->
+                            <vc:Categories></vc:Categories>
+                            <!--Categories-->
+
+                        </div>
+                        <div class="col-lg-12">
+                       
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-9">
+                <div class="all-blog-posts">
+                    <div class="row">
+                        @foreach (var item in selectedBlogs)
+                        {
+                            <div class="col-lg-4">
+                                <div class="blog-post">
+                                    <div class="blog-thumb">
+                                        <a asp-action="PostDetails" asp-controller="Blog" asp-route-id="@item.BlogID"> <img src="@item.BlogThumbnailImage" alt=""></a>
+                                    </div>
+                                    <div class="down-content">
+                                        <span>@item.Category.CategoryName</span>
+                                        <a asp-action="PostDetails" asp-controller="Blog" asp-route-id="@item.BlogID"><h6 style="color:black">@item.BlogTitle</h6></a>
+                                        <ul class="post-info">
+                                            <li><a>Admin</a></li>
+                                            <li><a>@item.BlogCreateDate.ToString("MMM dd, yyyy")</a></li>
+                                            <li><a><vc:comment-count id="@item.BlogID"></vc:comment-count>Yorum</a></li>
+                                        </ul>
+                                     @*   <p>@item.BlogContent.Substring(0,(item.BlogContent.Substring(0,110)).LastIndexOf(" "))..</p>*@
+                                        <div class="post-options">
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                   
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        }
+                        <div class="col-lg-12">
+                            <ul class="page-numbers">
+
+
+                                @*<li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>*@
+                                @for (int i = 1; i <= totalPages; i++)
+                                {
+                                    <li class="@(i == currentPage ? "active" : "")">
+                                        <a href="?page=@i">@i</a>
+                                        </li>
+
+                                }
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

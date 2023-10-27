@@ -1,0 +1,22 @@
+﻿@model IEnumerable<BlogViewModel>
+
+@foreach (var item in Model)
+{
+    <div class="item">
+        <img src="@item.BlogThumbnailImage" alt="">
+        <div class="item-content">
+            <div class="main-content">
+                <div class="meta-category">
+                    <span>@item.Category.CategoryName</span>
+                </div>
+                <a asp-action="PostDetails" asp-controller="Blog" asp-route-id="@item.BlogID"><h4>@item.BlogTitle</h4></a>
+                <ul class="post-info">
+                    <li><a>Admin</a></li>
+                    <li><a>@item.BlogCreateDate.ToString("MMM dd, yyyy")</a></li>
+                    <li><a><vc:comment-count id="@item.BlogID"></vc:comment-count> Yorum</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+}

@@ -1,0 +1,96 @@
+﻿@model BlogViewModel
+@{
+    ViewData["Title"] = "EditBlog";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-blogger"></i>
+        </span> @Model.BlogTitle
+    </h3>
+</div>
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <form class="forms-sample" method="post" asp-action="PswrdEditBlog" asp-controller="AdminMyBlogs" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="BlogTitle">Blog Başlığı</label>
+                    <input asp-for="BlogTitle" type="text" class="form-control" id="exampleInputName1" placeholder="Başlık">
+                </div>
+                <div class="form-group">
+                    <label asp-for="BlogCreateDate">Blog Oluşturma Tarihi</label>
+                    <input asp-for="BlogCreateDate" type="text" class="form-control" id="exampleInputEmail3" placeholder="Tarih">
+                </div>
+                <div class="form-group">
+                    <label asp-for="BlogStatus">Blog Durumu</label>
+                    <input asp-for="BlogStatus" type="text" class="form-control" id="exampleInputPassword4" placeholder="Blog Durumu">
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryID">Kategori</label>
+                    <select class="form-control" id="exampleSelectGender" asp-items="@ViewBag.categoryList" asp-for="CategoryID">
+                        <option>Kategori seçiniz</option>
+
+                    </select>
+                </div>
+                <input type="hidden" asp-for="BlogID" value="@Model.BlogID" />
+                <div class="form-group container">
+                    <div class="row ">
+                        <div class="col-6 ">
+                          
+                            <label asp-for="BlogThumbnailImage">Blog Thumbnail Resim</label><br />
+                            <img asp-for="BlogThumbnailImage" src="@Model.BlogThumbnailImage" style="height:150px" />
+                        </div>
+                       
+                            <div class="col-6" id="deneme">
+                               
+                                <label asp-for="BlogImage">Blog Büyük resim</label><br />
+                                <img src="@Model.BlogImage" style="height:150px; " />
+                               
+                               
+
+                            </div>
+                      
+                       
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Küçük Resim</label>
+                    <input type="file" name="formFile" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Değiştirilecekse Yükle">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Seç</button>
+                        </span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Büyük Resim</label>
+                    <input type="file" name="formFileimage" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Değiştirilecekse Yükle">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Seç</button>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="BlogContent">Blog Yazısı</label>
+                    <textarea asp-for="BlogContent" class="form-control" id="exampleTextarea1" rows="80"></textarea>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BlogTags">Tags</label>
+                    <input asp-for="BlogTags" type="text" class="form-control" placeholder="Tags (Tag'ler arasında ',' kullanılmalı')">
+                </div>
+                <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

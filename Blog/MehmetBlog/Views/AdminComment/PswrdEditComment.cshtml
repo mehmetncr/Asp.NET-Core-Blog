@@ -1,0 +1,49 @@
+﻿@model CommentsViewModel
+@{
+    ViewData["Title"] = "EditComment";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-comment-text"></i>
+        </span> <a asp-action="Pswrd" asp-controller="AdminComment">Yorumlar</a>
+    </h3>
+</div>
+<div class="row">
+    <div class="col-md-4 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <form class="forms-sample" asp-action="PswrdEditComment" asp-controller="AdminComment" method="post">
+                    <div class="form-group">
+                        <label asp-for="CommentUserName">Kullanıcı Adı</label>
+                        <input asp-for="CommentUserName" type="text" class="form-control" id="exampleInputUsername1" placeholder="Username">
+                        <input asp-for="BlogID" type="hidden" value="@Model.BlogID">
+                        <input asp-for="CommentID" type="hidden" value="@Model.CommentID">
+                        <input asp-for="CommentDate" type="hidden" value="@Model.CommentDate">
+                        <input asp-for="CommentImg" type="hidden" value="@Model.CommentImg">
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CommentMail">Email Adresi</label>
+                        <input asp-for="CommentMail" type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CommentContent">Password</label>
+                        <textarea asp-for="CommentContent" type="text" class="form-control" rows="15" id="exampleInputPassword1" placeholder="Comment"></textarea>
+                    </div>
+
+
+                    <button type="submit" class="btn btn-gradient-primary mr-2">Gönder</button>
+                    <button asp-action ="Pswrd" class="btn btn-light">Vazgeç</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-8">
+        @await Component.InvokeAsync("AdminReplayComment", new { id = Model.CommentID })
+
+    </div>
+
+</div>    

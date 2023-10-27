@@ -1,0 +1,78 @@
+﻿@model List<ContactViewModel>
+@{
+    ViewData["Title"] = "Pswrd";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-email"></i>
+        </span> Mesajlar
+    </h3>
+</div>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th> Kullanıcı Adı </th>
+                        <th> Mail Adresi </th>
+                        <th> Durumu </th>
+                        <th> Düzenle </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.ContactUserName</td>
+                            <td>@item.ContactMail</td>
+                            <td >
+                                
+                                <i class="@(item.ContactStatus == true?"mdi mdi-check":"mdi mdi-close")"></i>
+                                <span class="btn-sm @(item.ContactStatus ? "bg-success text-white" : "bg-danger text-white")">
+                                    @(item.ContactStatus ? "Okundu" : "Okunmadı")
+                                </span>
+
+                            </td>
+
+
+                            <td>
+
+                                <div class="row 12">
+
+                                    <div class="col-3">
+                                        <a class="btn-sm btn-info" asp-action="PswrdDetails" asp-route-id="@item.ContactID">Detayalar</a>
+                                    </div>
+                                    <div class="col-3">
+
+                                        <a class="btn-sm btn-warning ml-3  " asp-action="PswrdChangeStatusMessage" asp-route-id="@item.ContactID">
+                                            @(item.ContactStatus == true ? " Okunmadı  " : "Okundu")
+                                        </a>
+                                    </div>
+                           
+
+
+
+                                </div>
+
+
+
+                            </td>
+
+
+                        </tr>
+
+
+
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

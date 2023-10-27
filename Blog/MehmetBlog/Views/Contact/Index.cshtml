@@ -1,0 +1,95 @@
+﻿@model ContactViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Layout/_UserLayout.cshtml";
+}
+
+<section class="contact-us">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12">
+                <div class="down-contact">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <div class="sidebar-item contact-form">
+                                <div class="sidebar-heading">
+                                    <h2>Mail Gönder</h2>
+                                </div>
+                                <div class="content">
+                                    <form id="contact" asp-action="Index" asp-controller="Contact" method="post">
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-12">
+                                                <fieldset>
+                                                    <input asp-for="ContactUserName" type="text" id="name" placeholder="Adınız" required="">
+                                                    <span asp-validation-for="ContactUserName" class="text-danger"></span>
+                                                </fieldset>
+                                            </div>
+                                            <div class="col-md-6 col-sm-12">
+                                                <fieldset>
+                                                    <input asp-for="ContactMail"  type="text" id="email" placeholder="Mailiniz" required="">
+                                                    <span asp-validation-for="ContactMail" class="text-danger"></span>
+                                                </fieldset>
+                                            </div>
+                                            <div class="col-md-12 col-sm-12">
+                                                <fieldset>
+                                                    <input asp-for="ContactSubject" type="text" id="subject" placeholder="Mailinizin Başlığı">
+                                                    <span asp-validation-for="ContactSubject" class="text-danger"></span>
+                                                </fieldset>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <fieldset>
+                                                    <textarea asp-for="ContactMessage" rows="6" id="message" placeholder="Mesajınız.." required=""></textarea>
+                                                    <span asp-validation-for="ContactMessage" class="text-danger"></span>
+                                                </fieldset>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <fieldset>
+                                                    <button type="submit" id="form-submit" class="main-button">Gönder</button>
+                                                </fieldset>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="sidebar-item contact-information">
+                                <div class="sidebar-heading">
+                                    <h2>İletişim Bilgileri</h2>
+                                </div>
+                                <div class="content">
+                                    <ul>
+                                        <li>
+                                            <h5>nacarrmehmet@gmail.com</h5>
+                                            <span>EMAIL ADDRESS</span>
+                                        </li>
+                                        <li>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <div id="map">
+                
+                    <div class="mapouter">
+                        <div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=1120&amp;height=450&amp;hl=en&amp;q=istanbul&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

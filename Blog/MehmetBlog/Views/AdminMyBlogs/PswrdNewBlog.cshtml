@@ -1,0 +1,72 @@
+﻿@model BlogViewModel
+@{
+    ViewData["Title"] = "PswrdNewBlog";
+    Layout = "~/Views/Shared/AdminLayout/_AdminLayout.cshtml";
+}
+
+<script type="text/javascript" src="https://unpkg.com/trix@2.0.0/dist/trix.umd.min.js"></script>
+
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white mr-2 ">
+            <i class="mdi mdi-format-annotation-plus"></i>
+        </span> Yeni Blog
+    </h3>
+</div>
+
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Yeni blog Oluştur</h4>
+
+            <form class="forms-sample" method="post" asp-action="PswrdNewBlog" asp-controller="AdminMyBlogs" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="BlogTitle">Başlık</label>
+                    <input asp-for="BlogTitle" type="text" class="form-control" id="exampleInputName1" placeholder="Başlık">
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryID">Kategori</label>
+                    <select class="form-control" id="exampleSelectGender" asp-items="@ViewBag.categoryList" asp-for="CategoryID">
+                        <option>Kategori seçiniz</option>
+
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Küçük Resim</label>
+                    <input type="file" name="formFile" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Yükle">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Seç</button>
+                        </span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Büyük Resim</label>
+                    <input type="file" name="formFileimage" class="file-upload-default">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Yükle">
+                        <span class="input-group-append">
+                            <button class="file-upload-browse btn btn-gradient-primary" type="button">Seç</button>
+                        </span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="exampleTextarea1">Textarea</label>
+                    <trix-editor asp-for="BlogContent" class="form-control" id="exampleTextarea1" rows="80"></trix-editor>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="BlogTags">Tags</label>
+                    <input asp-for="BlogTags" type="text" class="form-control"  placeholder="Tags (Tag'ler arasında ',' kullanılmalı')">
+                </div>
+                <button type="submit" class="btn btn-gradient-primary mr-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>
+

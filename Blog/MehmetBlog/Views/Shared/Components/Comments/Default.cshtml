@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CommentsViewModel>
+
+@if (Model == null)
+{
+    <h2>İlk Yorumu Sen Yap</h2>
+}
+else
+{
+    <div class="sidebar-item comments">
+        <div class="sidebar-heading">
+            <h2>@ViewBag.Count Yorum</h2>
+        </div>
+        <div class="content">
+            <ul id="commentlist">
+                @foreach (var item in Model)
+                {
+
+                    <li>
+                        <div class="author-thumb">
+                            <img src="@item.CommentImg" alt="">
+                        </div>
+                        <div class="right-content">
+                            <h4>@item.CommentUserName<span>@item.CommentDate.ToString("MMM dd, yyyy")</span>   </h4>
+                         
+                            <p>@item.CommentContent</p>  <a class="btn btn-outline-success" onclick="myFunction(@item.CommentID)">Yanıtla</a> @*yorum 50 karakterden az olmamalı*@
+                            <div id="@item.CommentID" style="display:none">
+                                <partial name="_AddReplayCommentPartialView" model="new ReplyCommentViewModel{ParentCommentID=@item.CommentID, BlogReplayCommentID=item.BlogID}">
+
+                            </div>
+
+                        </div>
+
+
+                    </li>
+                    <vc:reply-comment id="@item.CommentID"></vc:reply-comment>
+
+                }
+
+            </ul>
+        </div>
+    </div>
+}
+
+
+
+<script>
+    function myFunction(id) {
+        var x = document.getElementById(id);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+           
+        }
+    }
+</script>
+
+
+
+

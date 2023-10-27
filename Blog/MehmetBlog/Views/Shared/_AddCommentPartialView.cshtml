@@ -1,0 +1,53 @@
+﻿@model CommentsViewModel
+
+<div class="col-lg-12">
+    <div class="sidebar-item submit-comment">
+        <div class="sidebar-heading">
+            <h2>Senin Yorumun</h2>
+        </div>
+        <div class="content">
+       
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <fieldset>
+                            <input asp-for="CommentUserName" type="text" id="name" placeholder="Adın" required="">
+                        <span id="commentUserNameValid" class="text-danger"></span>
+                        </fieldset>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <fieldset>
+                            <input asp-for="CommentMail" type="text" id="email" placeholder="Mail Adresin" required="">
+                            <span id="commentMailValid" class="text-danger"></span>
+                        </fieldset>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <fieldset>
+                            <textarea asp-for="CommentContent" rows="6" id="message" placeholder="Yorumunun (En az 35 karakter..)" required=""></textarea>
+                        <span id="commentContentValid" class="text-danger"></span>
+                        </fieldset>
+                    </div>
+                    <input asp-for="BlogID" id="blogId" type="hidden" value=@Model.BlogID />
+
+                    <div class="col-lg-12">
+                        <fieldset>
+                        <button onclick="addComment()" class="btn">Gönder</button>
+                        </fieldset>
+                    
+                    </div>
+                <div style="display:none" id="infodiv" class="alert alert-success" role="alert">
+                    <span id="info"></span>
+                </div>
+                </div>
+         
+
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

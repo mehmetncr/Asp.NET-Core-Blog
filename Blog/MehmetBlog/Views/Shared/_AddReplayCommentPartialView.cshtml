@@ -1,0 +1,47 @@
+﻿@model ReplyCommentViewModel
+<div class="col-lg-12">
+    <div class="sidebar-item submit-comment">
+        <div class="sidebar-heading">
+            <h2>Senin Yorumun</h2>
+        </div>
+        <div class="content">
+
+            <div class="row">
+                <div class="col-md-6 col-sm-12">
+                    <fieldset>
+                        <input asp-for="CommentUserName" type="text" id="replayname" placeholder="Adın" required="">
+                        <span id="replayUserNameValid" class="text-danger"></span>
+                    </fieldset>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                    <fieldset>
+                        <input asp-for="CommentMail" type="text" id="replayemail" placeholder="Mail Adresin" required="">
+                        <span id="replayMailValid" class="text-danger"></span>
+                    </fieldset>
+                </div>
+
+
+                <div class="col-lg-12">
+                    <fieldset>
+                        <textarea asp-for="CommentContent" rows="6" id="replaymessage" placeholder="Yorumunun (En az 35 karakter..)" required=""></textarea>
+                        <span id="replayContentValid" class="text-danger"></span>
+                    </fieldset>
+                </div>
+                <input asp-for="ParentCommentID" type="hidden" id="replayPrntComment" value=@Model.ParentCommentID />
+                <input asp-for="BlogReplayCommentID" type="hidden" id="replayBlog" value=@Model.BlogReplayCommentID />
+                <div class="col-lg-12">
+                    <fieldset>
+                        <button onclick="addReplayComment()" class="btn">Gönder</button>
+                    </fieldset>
+                 
+
+                </div> <br />
+                <div style="display:none" id="replayinfodiv" class="alert alert-success" role="alert">
+                    <span id="replayinfo"></span>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>

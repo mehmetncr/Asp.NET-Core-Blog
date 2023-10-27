@@ -1,0 +1,17 @@
+﻿@model IEnumerable<ReplyCommentViewModel>
+
+    @foreach (var item in Model)
+{
+
+    <li class="replied">
+        <div class="author-thumb">
+            <img src="@item.CommentImg" alt="">
+        </div>
+        <div class="right-content">
+            <h4>@item.CommentUserName<span>@item.CommentDate.ToString("MMM dd, yyyy")</span></h4>
+  
+            <p>@item.CommentContent</p>
+        </div>
+    </li>
+
+}
