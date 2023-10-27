@@ -31,6 +31,6 @@ The personal blog site I developed with Asp .Net was made by minimising dependen
 
 - Onion Pattern
 
-- N Tier Architecture (Entity Layer Data Access Layer, Bussiness Layer, UI Layer)
+- N Tier Architecture (Entity Layer Data Access Layer, Business Layer, UI Layer)
 
 - Bootsrap
